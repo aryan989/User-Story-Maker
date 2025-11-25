@@ -1,0 +1,5 @@
+{
+  "name": "SpecSmith AI",
+  "description": "An intelligent documentation generator that transforms high-level problem statements and solutions into detailed User Stories and Business Requirement Documents (BRD) using Gemini AI.",
+  "requestFramePermissions": []
+}
